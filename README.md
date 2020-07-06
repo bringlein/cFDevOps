@@ -10,7 +10,7 @@ In this workshop, leading platform providers and developers are going to present
 **Gustavo Alonso, Department of Computer Science, ETH Zurich, Switzerland**
 Gustavo Alonso is a Professor of Computer Science at ETH Zürich where he is a member of the Systems Group (www.systems.ethz.ch) and the Head of the Institute for Computing Platforms. He has a degree in electrical engineering from the Madrid Technical University as well as a M.S. and Ph.D. degrees in Computer Science from UC Santa Barbara. Gustavo's research interests encompass almost all aspects of systems, from design to run time. He works on distributed systems, data processing, and system aspects of programming languages. Most of his research these days is related to data processing on data centers and the cloud as well as hardware acceleration using FPGAs. Gustavo has received numerous awards for his work, including four Test-of-Time awards for contributions to databases, programming languages, mobile computing, and systems. He is a Fellow of the ACM and of the IEEE as well as a Distinguished Alumnus of the Department of Computer Science of UC Santa Barbara.
 
- 
+
 **Chris Kachris, inaccel, Greece**
 Chris Kachris the founder and CEO of InAccel that helps companies speedup their applications using hardware accelerators (FPGAs) in the cloud or on-prem. Inaccel, using a unique FPGA orchestrator, allows scalable deployment of FPGA clusters. Chris holds a Ph.D. from Delft University of Technology. He has published more than 70 papers in international journals and conferences with more than 1800 citations. He has over 15 years of experience on FPGAs and he is the editor of the book Hardware Accelerators in Data Centers.
 
@@ -39,6 +39,7 @@ Tentatively scheduled for **Friday, September 4th 2020, 14h-17h CEST**. The work
 | 15:20 | **Break** | |
 | 15:30 | **Session 2**  | **Portability for Cloud FPGA platforms** |
 | -- | t.b.a. | t.b.a. |
+| 16:55 | Closing | *The Organizers* |
 
 
 
