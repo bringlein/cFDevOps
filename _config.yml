@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 title: cFDevOps
 description: FPL2020 Workshop on DevOps support for Cloud FPGA platforms
 logo: assets/img/logo.png
@@ -9,6 +10,4 @@ anchor3_url: contact
 anchor3_txt: Contact
 kramdown:
   auto_ids: true
-sass:
-    sass_dir: _sass
 
