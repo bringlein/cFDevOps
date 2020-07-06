@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
  <link rel="stylesheet"
           href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans">
+<link rel="icon" type="image/png" href="{{ favicon.png | prepend: '/assets/img' | absolute_url }}" >
 </head>
 <body>
 <div class="wrapper">
@@ -16,7 +17,7 @@
 		<!--
 		<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 		-->
-		<h1><a>{{ site.title | default: site.github.repository_name }}</a></h1>
+		<h1>{{ site.title | default: site.github.repository_name }}</h1>
 
 		{% if site.logo %}
 		<img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -36,6 +37,7 @@
 
 		<p class="view"><a href="#{{site.anchor1_url}}">{{ site.anchor1_txt }}</a></p>
 		<p class="view"><a href="#{{site.anchor2_url}}">{{ site.anchor2_txt }}</a></p>
+		<p class="view"><a href="#{{site.anchor3_url}}">{{ site.anchor3_txt }}</a></p>
 
 		{% if site.show_downloads %}
 		<ul class="downloads">
@@ -51,10 +53,12 @@
 
 	</section>
 	<footer>
+		<p>
 		{% if site.github.is_project_page %}
-		<p><small>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
+		<small>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small>
 		{% endif %}
-		<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+		<small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>
+		</p>
 	</footer>
 </div>
 <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

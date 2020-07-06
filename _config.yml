@@ -6,6 +6,8 @@ anchor1_url: program
 anchor1_txt: Program
 anchor2_url: registration
 anchor2_txt: Registration
+anchor3_url: contact
+anchor3_txt: Contact
 kramdown:
   auto_ids: true
 
