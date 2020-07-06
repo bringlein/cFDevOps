@@ -9,4 +9,6 @@ anchor3_url: contact
 anchor3_txt: Contact
 kramdown:
   auto_ids: true
+sass:
+    sass_dir: _sass
 
