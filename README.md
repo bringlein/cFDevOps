@@ -3,10 +3,6 @@
 With the slowdown of Moore's law as we know it, the Cloud is resorting to heterogeneous, accelerated computing to satisfy the ever-increasing demand for performance and power efficiency. In just a few years, FPGAs have emerged as compute accelerators next to GPUs and are part of the standard offerings from many Cloud vendors. However, the development environment, deployment procedures, security measures, and monitoring tools are different for each platform and the portability of the FPGA kernel designs remains limited. 
 In this workshop, leading platform providers and developers are going to present the state-of-the-art for Cloud FPGA platforms and explore opportunities and directions for future improvements from the developer's point of view. Instead of focusing on the performance and optimization of a specific application, the goal of this workshop is to highlight the challenges, which a Cloud application developer faces when designing, implementing, deploying and debugging Cloud services on Cloud FPGA platforms. One important aspect is portability and scalability of designs across different Cloud providers and target platforms. 
 
-## Programm 
-
-to be announced
-
 
 ## Organizers
 
@@ -31,9 +27,37 @@ Dionysios Diamantopoulos is a Post-Doc Researcher in the  Cloud & AI Systems Re
 Burkhard Ringlein is a Predoctoral Researcher in the Cloud & AI Systems Research department of the IBM Research Zurich Laboratory and pursues his PhD in cooperation with the Department of Computer Science, Computer Architecture of the Friedrich-Alexander University Erlangen-Nürnberg, Germany. As part of the cloudFPGA project, he is focusing on Distributed Reconfigurable Architectures in the context of High-Performance-Computing and AI Acceleration. 
 
 
-# Contact
+## Program
+
+Tentatively scheduled for **Friday, September 4th 2020, 14h-17h CEST**. The workshop will be held online (Zoom Webinar).
+
+| **Time (CEST)**  | **Title**                    | **Presenters**                |
+|:----------------:|:-----------------------------|:------------------------------|
+| 14:00 | Opening  | *The Organizers* |
+| 14:05 | **Session 1**  | **Cloud FPGA development environments** |
+| -- | t.b.a. | t.b.a. |
+| 15:20 | **Break** | |
+| 15:30 | **Session 2**  | **Portability for Cloud FPGA platforms** |
+| -- | t.b.a. | t.b.a. |
+
+
+
+to be announced
+
+
+## Registration
+
+to be announced
+
+## Talks
+
+to appear
+
+
+## Contact
 
 [Christoph Hagleitner](http://researcher.watson.ibm.com/researcher/view.php?person=zurich-HLEhttp://researcher.watson.ibm.com/researcher/view.php?person=zurich-HLE)
 
 [Burkhard Ringlein](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-NGL)
+
 
