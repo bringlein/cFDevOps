@@ -2,4 +2,6 @@ theme: jekyll-theme-minimal
 title: Workshop on DevOps support for Cloud FPGA platforms
 description: FPL2020 Workshop on DevOps support for Cloud FPGA platforms
 logo: assets/img/logo.png
+kramdown:
+  auto_ids: true
 
