@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a {
+    color: #222;
+    text-decoration: none;
+    font-family: "IBM Plex", sans;
+}
