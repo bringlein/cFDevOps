@@ -16,8 +16,9 @@
 	<header>
 		<!--
 		<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-		-->
 		<h1>{{ site.title | default: site.github.repository_name }}</h1>
+		-->
+		<h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
 		{% if site.logo %}
 		<img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -38,6 +39,8 @@
 		<p class="view"><a href="#{{site.anchor1_url}}">{{ site.anchor1_txt }}</a></p>
 		<p class="view"><a href="#{{site.anchor2_url}}">{{ site.anchor2_txt }}</a></p>
 		<p class="view"><a href="#{{site.anchor3_url}}">{{ site.anchor3_txt }}</a></p>
+		
+		<p class="view"><a href="https://www.fpl2020.org" target="_blank">FPL2020</a></p>
 
 		{% if site.show_downloads %}
 		<ul class="downloads">
@@ -55,7 +58,7 @@
 	<footer>
 		<p>
 		{% if site.github.is_project_page %}
-		<small>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small>
+		<small>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</small><br>
 		{% endif %}
 		<small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>
 		</p>
