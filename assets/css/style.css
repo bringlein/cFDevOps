@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "./jekyll-theme-minimal.scss";
+@import "jekyll-theme-minimal";
 
 a {
     color: #222;
