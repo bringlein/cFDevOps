@@ -17,17 +17,17 @@ The workshop will take place on  **Friday, September 4th 2020, 14h-17h CEST**. T
 | 14:00 | Opening  | *The Organizers* |
 | 14:05 | **Session 1**  | **Applications and Operations of Cloud FPGA environments** |
 |       | Intro | *The Organizers* |
-| 14:10 | Scalable FPGA Acceleration of Genomics Algorithms on the BlueBee Platform | Zaid Al-Ars |
-| 14:20 | FPGA Operations for an Academic HPC System | Tobias Kenter |
-| 14:40 | Making FPGAs First Class Citizens in the Cloud | Derek Chiou |
+| 14:10 | Scalable FPGA Acceleration of Genomics Algorithms on the BlueBee Platform | Zaid Al-Ars, BlueBee |
+| 14:20 | FPGA Operations for an Academic HPC System | Tobias Kenter, University of Paderborn |
+| 14:40 | Making FPGAs First Class Citizens in the Cloud | Derek Chiou, Microsoft |
 | 15:00 | Q & A | *Everyone* |
 | 15:10 | **Break** | |
 | 15:20 | **Session 2**  | **Programmability & Portability in Cloud FPGA environments** |
 |       | Intro | *The Organizers* |
-| 15:25 | Auto-scalable Heterogenous FPGA deployment on cloud and on-prem | Chris Kachris |
-| 15:45 | openRole: How to bring 'Design once, run everywhere' to FPGAs | Burkhard Ringlein |
-| 16:05 | Making Software Programmability for FPGAs a Success | Vinod Kathail |
-| 16:25 | DevCloud: Intel’s FPGA enabled cloud computing | Lawrence Landis |
+| 15:25 | Auto-scalable Heterogenous FPGA deployment on cloud and on-prem | Chris Kachris, InAccel |
+| 15:45 | openRole: How to bring 'Design once, run everywhere' to FPGAs | Burkhard Ringlein, IBM Research Europe |
+| 16:05 | Making Software Programmability for FPGAs a Success | Vinod Kathail, Xilinx|
+| 16:25 | DevCloud: Intel’s FPGA enabled cloud computing | Lawrence Landis, Intel |
 | 16:45 | Q & A | *Everyone* |
 | 16:55 | Closing | *The Organizers* |
 
