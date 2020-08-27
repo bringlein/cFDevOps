@@ -32,8 +32,6 @@ The workshop will take place on  **Friday, September 4th 2020, 14h-17h CEST**. T
 | 16:55 | Closing | *The Organizers* |
 
 
-(More details about the talks see below.)
-
 
 ## Registration
 
