@@ -4,8 +4,7 @@
 ## Why is cFDevOps important?
 
 With the slowdown of Moore's law as we know it, the Cloud is resorting to heterogeneous, accelerated computing to satisfy the ever-increasing demand for performance and power efficiency. In just a few years, FPGAs have emerged as compute accelerators next to GPUs and are part of the standard offerings from many Cloud vendors. However, the development environment, deployment procedures, security measures, and monitoring tools are different for each platform and the portability of the FPGA kernel designs remains limited. 
-In this workshop, leading platform providers and developers are going to present the state-of-the-art for Cloud FPGA platforms and explore opportunities and directions for future improvements from the developer's point of view. Instead of focusing on the performance and optimization of a specific application, the goal of this workshop is to highlight the challenges, which a Cloud application developer faces when designing, implementing, deploying and debugging Cloud services on Cloud FPGA platforms. One important aspect is portability and scalability of designs across different Cloud providers and target platforms. 
-
+In this workshop, leading application and platform providers as well as platform developers are going to present the state-of-the-art for Cloud FPGA platforms and explore opportunities and directions for future improvements from the developer's point of view. Instead of focusing on the performance and optimization of a specific application, the goal of this workshop is to highlight the challenges, which a Cloud application developer faces when designing, implementing, deploying and debugging Cloud services on Cloud FPGA platforms. One important aspect is portability and scalability of designs across different Cloud providers and target platforms. 
 
 
 ## Program
