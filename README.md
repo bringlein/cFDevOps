@@ -20,13 +20,13 @@ The workshop will take place on  **Friday, September 4th 2020, 14h-17h CEST**. T
 | 14:45 | Making FPGAs First Class Citizens in the Cloud | Derek Chiou, Microsoft |
 | 15:05 | Q & A | *Everyone* |
 | 15:10 | **Break** | |
-| 15:20 | **Session 2**  | **Programmability & Portability in Cloud FPGA environments** |
-| 15:20 | Auto-scalable Heterogenous FPGA deployment on cloud and on-prem | Chris Kachris, InAccel |
-| 15:40 | openRole: How to bring 'Design once, run everywhere' to FPGAs | Burkhard Ringlein, IBM Research Europe |
-| 16:00 | Q & A | *Everyone* |
-| 16:10 | Making Software Programmability for FPGAs a Success | Vinod Kathail, Xilinx|
-| 16:30 | DevCloud: Intel’s FPGA enabled cloud computing | Lawrence Landis, Intel |
-| 16:50 | Q & A | *Everyone* |
+| 15:15 | **Session 2**  | **Programmability & Portability in Cloud FPGA environments** |
+| 15:15 | Auto-scalable Heterogenous FPGA deployment on cloud and on-prem | Chris Kachris, InAccel |
+| 15:35 | openRole: How to bring 'Design once, run everywhere' to FPGAs | Burkhard Ringlein, IBM Research Europe |
+| 15:55 | Reprogramability: You Keep Using That Word, I Do Not Think It Means What You Think It Means | Andrew Lenharth, Microsoft |
+| 16:15 | Making Software Programmability for FPGAs a Success | Vinod Kathail, Xilinx|
+| 16:35 | DevCloud: Intel’s FPGA enabled cloud computing | Lawrence Landis, Intel |
+| 16:55 | Q & A | *Everyone* |
 | 17:00 | Closing | *The Organizers* |
 
 
@@ -75,6 +75,12 @@ by ***Chris Kachris, Ph.D, CEO of InAccel***
 by ***Burkhard Ringlein, IBM Research Europe, Switzerland***
 
 **Abstract:** The emergence of FPGAs as compute accelerators in the Cloud and other multi-user environments inevitably lead to a split of the FPGA design into an user application programmed by the developers and a platform specific part controlled by the infrastructure provider. This split of FPGA logic into a vendor controlled SHELL and a user-controlled ROLE allows the necessary introduction of different privilege levels within an FPGA design and potentially improves re-usability of user applications. The SHELL – ROLE  architectural pattern can be observed widely across different FPGA platforms, but despite the strong similarity of approaches, all implementations differ in details. The differences in the SHELL – ROLE  interface between platform and application limits the portability of applications for no good reason and decelerates the adoption of all FPGA-based platforms. This situation resembles the early days of operating systems running on CPUs, before standards like POSIX introduced unified interfaces between the OS and the application code. We propose to address this with openROLE, which is an attempt to formulate similar standards for FPGA platforms.
+
+
+#### Reprogramability: You Keep Using That Word, I Do Not Think It Means What You Think It Means
+by ***Andrew.Lenharth, Microsoft***
+
+**Abstract:** Using FPGAs as a core part of Cloud infrastructure puts a strong emphasis on reprogramability.  While reprogramability may seem definitionally solved for FPGA, I'll argue that it is only in the most limited sense.  Reprogramability implies programmability.  There are two common interpretations of this: one is as a property of a hardware system, the other is as a property of a programming infrastructure and eco-system.  We'll focus on [re]propgramability issues of the second kind faced in cloud environments, when trying to use FPGAs as a first-class reconfigurable processing elements.
 
 
 #### Making Software Programmability for FPGAs a Success
