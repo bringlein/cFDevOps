@@ -36,7 +36,7 @@ The workshop will take place on  **Friday, September 4th 2020, 14h-17h CEST**. T
 Registration is mandatory via the FPL registration [here (Whova)](https://whova.com/portal/registration/fpl_202008/).
 The registration is free of charge.
 
-More details about the FPL registration can be found [here](https://www.fpl2020.org/attending/registration).
+More details about FPL can be found [here](https://www.fpl2020.org/).
 
 
 ## Talks
