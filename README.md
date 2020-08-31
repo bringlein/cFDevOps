@@ -78,7 +78,7 @@ by ***Burkhard Ringlein, IBM Research Europe, Switzerland***
 
 
 #### Reprogramability: You Keep Using That Word, I Do Not Think It Means What You Think It Means
-by ***Andrew.Lenharth, Microsoft***
+by ***Andrew Lenharth, Microsoft***
 
 **Abstract:** Using FPGAs as a core part of Cloud infrastructure puts a strong emphasis on reprogramability.  While reprogramability may seem definitionally solved for FPGA, I'll argue that it is only in the most limited sense.  Reprogramability implies programmability.  There are two common interpretations of this: one is as a property of a hardware system, the other is as a property of a programming infrastructure and eco-system.  We'll focus on [re]propgramability issues of the second kind faced in cloud environments, when trying to use FPGAs as a first-class reconfigurable processing elements.
 
