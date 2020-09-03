@@ -22,7 +22,7 @@ The workshop will take place on  **Friday, September 4th 2020, 14h-17h CEST**. T
 | 15:10 | **Break** | |
 | 15:15 | **Session 2**  | **Programmability & Portability in Cloud FPGA environments** |
 | 15:15 | Auto-scalable Heterogenous FPGA deployment on cloud and on-prem | Chris Kachris, InAccel |
-| 15:35 | openRole: How to bring 'Design once, run everywhere' to FPGAs | Burkhard Ringlein, IBM Research Europe |
+| 15:35 | openRole: Can we bring 'Design once, run everywhere' to FPGAs? | Burkhard Ringlein, IBM Research Europe |
 | 15:55 | Reprogramability: You Keep Using That Word, I Do Not Think It Means What You Think It Means | Andrew Lenharth, Microsoft |
 | 16:15 | Making Software Programmability for FPGAs a Success | Vinod Kathail, Xilinx|
 | 16:35 | DevCloud: Intel’s FPGA enabled cloud computing | Lawrence Landis, Intel |
@@ -71,7 +71,7 @@ by ***Chris Kachris, Ph.D, CEO of InAccel***
 **Abstract:** FPGAs have been emerged as a powerful accelerator platform for many applications like deep neural networks, machine learning and video transcoding. Cloud vendors have recognized the power of FPGAs and have recently adopted FPGAs as a computing resource that users can utilize. However, there are currently several limitations that prevent the automatic deployment and utilization of FPGA on the cloud or on-prem. Enterprise customers now have the option to adopt a hybrid deployment for their FPGA-accelerated applications. That means, that companies can purchase a small number of FPGAs deployed on-prem and if these FPGAs are overloaded, they can automatically scale it using the cloud resources. InAccel, using the unique platform-agnostic FPGA orchestration allows auto-scaling hybrid FPGA deployment in the most efficient way. In this presentation, InAccel will demonstrate how users can experience the power of the FPGAs on a hybrid deployment on-prem and on cloud. InAccel will show a unique platform that allows vendor-agnostic and platform agnostic auto-scalable FPGA deployment on the a heterogeneous environment.
 
 
-#### openRole: How to bring 'Design once, run everywhere' to FPGAs
+#### openRole: Can we bring 'Design once, run everywhere' to FPGAs?
 by ***Burkhard Ringlein, IBM Research Europe, Switzerland***
 
 **Abstract:** The emergence of FPGAs as compute accelerators in the Cloud and other multi-user environments inevitably lead to a split of the FPGA design into an user application programmed by the developers and a platform specific part controlled by the infrastructure provider. This split of FPGA logic into a vendor controlled SHELL and a user-controlled ROLE allows the necessary introduction of different privilege levels within an FPGA design and potentially improves re-usability of user applications. The SHELL – ROLE  architectural pattern can be observed widely across different FPGA platforms, but despite the strong similarity of approaches, all implementations differ in details. The differences in the SHELL – ROLE  interface between platform and application limits the portability of applications for no good reason and decelerates the adoption of all FPGA-based platforms. This situation resembles the early days of operating systems running on CPUs, before standards like POSIX introduced unified interfaces between the OS and the application code. We propose to address this with openROLE, which is an attempt to formulate similar standards for FPGA platforms.
