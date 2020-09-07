@@ -73,6 +73,8 @@ by ***Chris Kachris, Ph.D, CEO of InAccel***
 #### openRole: Can we bring 'Design once, run everywhere' to FPGAs?
 by ***Burkhard Ringlein, IBM Research Europe, Switzerland***
 
+**Presentation Slides:** [Available Here](./slides/cFDevOps20_Ringlein_openRole.pdf)
+
 **Abstract:** The emergence of FPGAs as compute accelerators in the Cloud and other multi-user environments inevitably lead to a split of the FPGA design into an user application programmed by the developers and a platform specific part controlled by the infrastructure provider. This split of FPGA logic into a vendor controlled SHELL and a user-controlled ROLE allows the necessary introduction of different privilege levels within an FPGA design and potentially improves re-usability of user applications. The SHELL – ROLE  architectural pattern can be observed widely across different FPGA platforms, but despite the strong similarity of approaches, all implementations differ in details. The differences in the SHELL – ROLE  interface between platform and application limits the portability of applications for no good reason and decelerates the adoption of all FPGA-based platforms. This situation resembles the early days of operating systems running on CPUs, before standards like POSIX introduced unified interfaces between the OS and the application code. We propose to address this with openROLE, which is an attempt to formulate similar standards for FPGA platforms.
 
 
