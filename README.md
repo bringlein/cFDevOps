@@ -6,6 +6,15 @@
 With the slowdown of Moore's law as we know it, the Cloud is resorting to heterogeneous, accelerated computing to satisfy the ever-increasing demand for performance and power efficiency. In just a few years, FPGAs have emerged as compute accelerators next to GPUs and are part of the standard offerings from many Cloud vendors. However, the development environment, deployment procedures, security measures, and monitoring tools are different for each platform and the portability of the FPGA kernel designs remains limited. 
 In this workshop, leading application and platform providers as well as platform developers are going to present the state-of-the-art for Cloud FPGA platforms and explore opportunities and directions for future improvements from the developer's point of view. Instead of focusing on the performance and optimization of a specific application, the goal of this workshop is to highlight the challenges, which a Cloud application developer faces when designing, implementing, deploying and debugging Cloud services on Cloud FPGA platforms. One important aspect is portability and scalability of designs across different Cloud providers and target platforms. 
 
+## Update 2020-09-07
+
+We thank all speakers for their excellent presentations and all participants for joining and their interesting questions. 
+We felt we had a very insightful workshop with a lively debate.
+The slides/recordings of some talks are linked below.
+
+We hope to see all of you next year at FPL again, where we plan to organize another *cFDevOps* workshop. Stay safe!
+
+
 
 ## Program
 
@@ -33,9 +42,8 @@ The workshop will take place on  **Friday, September 4th 2020, 14h-17h CEST**. T
 
 ## Registration
 
-Registration for FPL is [here (Whova)](https://whova.com/portal/registration/fpl_202008/). Feel free to contact us (contact info below) in case you have difficulties registering for the workshop. The registration is free of charge.
-
-More details about FPL can be found [here](https://www.fpl2020.org/).
+Registration is closed.
+More details about FPL2020 can be found [here](https://www.fpl2020.org/).
 
 
 ## Talks
